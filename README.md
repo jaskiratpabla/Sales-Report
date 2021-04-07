@@ -1,5 +1,6 @@
 # Sales-Report
 Sales Report for a grocery store in Python, full documentation and testing is included.
+
 Part 1:
 You are working on sorting data for a sales report in a grocery store. You are provided with a list of Transactions (sales for that day - see data definition in code). The function sales_report(transactions) consumes an unsorted list of distinct Transactions, and returns a new sorted list.
 
